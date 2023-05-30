@@ -1,7 +1,7 @@
 # Kaggle-Digit-Recognizer-Competition
 Hands Writing Digit Recognizer Using Deep Convolutional Neural Networks with an Validation Accuracy > 99.00%
 
-## Competition Description
+# Competition Description
 
 MNIST ("Modified National Institute of Standards and Technology") is the de facto “hello world” dataset of computer vision. Since its release in 1999, this classic dataset of handwritten images has served as the basis for benchmarking classification algorithms. As new machine learning techniques emerge, MNIST remains a reliable resource for researchers and learners alike.
 
